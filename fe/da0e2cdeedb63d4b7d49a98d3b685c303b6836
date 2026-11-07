@@ -1,0 +1,14 @@
+README.md
+  h_53aea25a6c6376 3-6
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "feda0e2cdeedb63d4b7d49a98d3b685c303b6836",
+  "prompts": {},
+  "humans": {
+    "h_53aea25a6c6376": {
+      "author": "彭添 <pengtian@intra.nsfocus.com>"
+    }
+  }
+}
