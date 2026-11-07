@@ -1,5 +1,9 @@
 # 拜拜红果 · 短剧戒毒器
 
+<p align="center">
+  <img src="assets/logo.jpg" width="200" alt="拜拜红果 logo" />
+</p>
+
 输入剧名，输出结局，让你不想再看。
 
 不是影评，不是简介，不是推荐。是**一盆冷水**。
